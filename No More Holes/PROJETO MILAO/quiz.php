@@ -87,8 +87,9 @@
         </form>
         <?php } ?>
         <div style="text-align:center; margin-top:32px;">
-            <a href="index.html" class="footer-link">← Voltar para o site</a>
+            <a href="index.php" class="footer-link">← Voltar para o site</a>
         </div>
     </div>
 </body>
 </html>
+
